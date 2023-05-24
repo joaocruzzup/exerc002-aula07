@@ -27,7 +27,7 @@ public class CalcMedia {
         System.out.println("-------------------------------------------------");
 
 
-        // Parte que excede o exercício apenas para treinar um pouco mais de estrutura condicional no Java
+        // Parte que excede o exercício apenas para treinar um pouco mais de estrutura condicional no Java e o método.
 
         System.out.println("Você gostaria de saber se foi aprovado? \nDigite 'Y' para SIM ou 'N' para NÃO");
         String resposta = sc.next().toUpperCase();
