@@ -12,7 +12,6 @@ public class CalcSalarioPlus {
         double taxaInss = 0.08;
         double taxaSind = 0.05;
 
-
         System.out.println("-------------------------------------------------");
         System.out.println("Boas-vindas à Calculadora de Salário PLUS!");
         System.out.println("-------------------------------------------------");

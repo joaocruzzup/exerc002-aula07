@@ -6,12 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b62aae1e-f755-4458-b0c0-6deb798dd373" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex01/AloMundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex01/AloMundo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex02/CalcMedia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex02/CalcMedia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex03/ConversorUnidades.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex03/ConversorUnidades.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex04/CalcSalario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex04/CalcSalario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex05/CalcTemperatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex05/CalcTemperatura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex06/CalcAntSuces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex06/CalcAntSuces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex07/CalcSalarioPlus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex07/CalcSalarioPlus.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
