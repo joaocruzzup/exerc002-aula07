@@ -35,12 +35,5 @@ public class CalcSalarioPlus {
         System.out.printf("Será descontado pelo Imposto de Renda: R$ %.2f %n", pagIr);
         System.out.printf("Seu salário líquido é: R$ %.2f %n", salarioLiquido);
 
-
-
-
-
-
-
-
     }
 }

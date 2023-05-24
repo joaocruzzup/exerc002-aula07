@@ -2,7 +2,7 @@ package ex05;
 
 import java.util.Scanner;
 
-public class CalculadoraTemperatura {
+public class CalcTemperatura {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
