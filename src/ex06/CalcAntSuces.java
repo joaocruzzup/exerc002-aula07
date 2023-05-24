@@ -1,4 +1,5 @@
 package ex06;
+// Faça um programa que leia um número inteiro e imprima o seu antecessor e seu sucessor.
 
 import java.util.Scanner;
 
@@ -9,7 +10,7 @@ public class CalcAntSuces {
         System.out.println("Boas-vindas à Calculadora de Antecessores e Sucessores!");
         System.out.println("-------------------------------------------------");
 
-        System.out.println("Digite um número inteiro");
+        System.out.println("Digite um número inteiro: ");
         int numDigitado = sc.nextInt();
 
         int numAnt = numDigitado - 1;

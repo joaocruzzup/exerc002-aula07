@@ -1,4 +1,5 @@
 package ex05;
+// Faça um programa que peça a temperatura em graus Fahrenheit, transforme e mostre a temperatura em graus Celsius.
 
 import java.util.Scanner;
 
@@ -16,8 +17,9 @@ public class CalcTemperatura {
         double tempC = (tempF - 32) / 1.8;
 
         System.out.println("-------------------------------------------------");
-        System.out.printf("Resultado: %.3f ºF equivale a %.3f ºC %n", tempF, tempC);
+        System.out.printf("Resultado: %.3fºF equivale a %.3fºC %n", tempF, tempC);
 
         System.out.println("-------------------------------------------------");
+
     }
 }
