@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b62aae1e-f755-4458-b0c0-6deb798dd373" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ex04/CalculadoraSalario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex05/CalculadoraTemperatura.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     "onboarding.tips.debug.path": "C:/Users/joao.cruz/Documents/ws-intellij/exerc002-aula07/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CalculadoraSalario">
+  <component name="RunManager" selected="Application.CalculadoraTemperatura">
     <configuration name="AloMundo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex01.AloMundo" />
       <module name="exerc002-aula07" />
@@ -80,6 +80,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CalculadoraTemperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex05.CalculadoraTemperatura" />
+      <module name="exerc002-aula07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConversorUnidades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex03.ConversorUnidades" />
       <module name="exerc002-aula07" />
@@ -95,6 +108,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculadoraTemperatura" />
         <item itemvalue="Application.CalculadoraSalario" />
         <item itemvalue="Application.ConversorUnidades" />
         <item itemvalue="Application.CalculadoraMedia" />
