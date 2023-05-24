@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b62aae1e-f755-4458-b0c0-6deb798dd373" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ex05/CalculadoraTemperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex07/CalcSalarioPlus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex05/CalculadoraTemperatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex05/CalculadoraTemperatura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex06/CalcAntSuces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex06/CalcAntSuces.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +42,13 @@
     "onboarding.tips.debug.path": "C:/Users/joao.cruz/Documents/ws-intellij/exerc002-aula07/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CalculadoraTemperatura">
-    <configuration name="AloMundo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex01.AloMundo" />
+  <component name="RunManager" selected="Application.CalcSalarioPlus">
+    <configuration name="CalcAntSuces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex06.CalcAntSuces" />
       <module name="exerc002-aula07" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex01.*" />
+          <option name="PATTERN" value="ex06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculadoraMedia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex02.CalculadoraMedia" />
+    <configuration name="CalcSalarioPlus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex07.CalcSalarioPlus" />
       <module name="exerc002-aula07" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex02.*" />
+          <option name="PATTERN" value="ex07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalcSalarioPlus" />
         <item itemvalue="Application.CalculadoraTemperatura" />
+        <item itemvalue="Application.CalcAntSuces" />
         <item itemvalue="Application.CalculadoraSalario" />
         <item itemvalue="Application.ConversorUnidades" />
-        <item itemvalue="Application.CalculadoraMedia" />
-        <item itemvalue="Application.AloMundo" />
       </list>
     </recent_temporary>
   </component>
@@ -126,5 +128,16 @@
       <updated>1684934537188</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

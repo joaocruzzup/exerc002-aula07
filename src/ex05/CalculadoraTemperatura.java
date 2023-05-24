@@ -17,6 +17,7 @@ public class CalculadoraTemperatura {
 
         System.out.println("-------------------------------------------------");
         System.out.printf("Resultado: %.3f ºF equivale a %.3f ºC %n", tempF, tempC);
+
         System.out.println("-------------------------------------------------");
     }
 }
