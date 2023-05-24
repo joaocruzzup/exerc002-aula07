@@ -16,7 +16,7 @@ Sistema para o cálculo de médias aritméticas referentes a 4 notas bimestrais 
 
 Acesse aqui a pasta do projeto: [CalcMediaAritmetica](https://github.com/joaocruzzup/exerc002-aula07/tree/main/src/ex02)
 
-## Conversor Metros para Centímetros (exercício 03):
+## Conversor Metros para Centímetros (exerc 03):
 
 Sistema para converter a unidade de metros para centímetros (Confira melhor o enunciado no arquivo Program do exercício).
 
@@ -34,13 +34,13 @@ Sistema para converter a temperatura de Fahrenheit para Celsius. (Confira melhor
 
 Acesse aqui a pasta do projeto: [ConversorTemperatura](https://github.com/joaocruzzup/exerc002-aula07/tree/main/src/ex05)
 
-## Calculadora Antecessor e Sucessor (exercício 04):
+## Calculadora Antecessor e Sucessor (exerc 06):
 
 Sistema para calcular o antecessor e o sucessor de um número inteiro qualquer. (Confira melhor o enunciado no arquivo Program do exercício).
 
 Acesse aqui a pasta do projeto: [CalcAntSuces](https://github.com/joaocruzzup/exerc002-aula07/tree/main/src/ex06)
 
-## Calculadora PLUS de Salário (exercício 04):
+## Calculadora PLUS de Salário (exerc 07):
 
 Sistema para calcular o salário levando em consideração descontos. (Confira melhor o enunciado no arquivo Program do exercício).
 
