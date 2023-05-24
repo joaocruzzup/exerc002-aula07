@@ -2,6 +2,7 @@
 
 Esse repositório é referente a criação de algoritmos criados para a lista de exercícios da aula 07 do programa Catalisa da Zup Innovation.
 
+---
 # Algoritmos criados
 
 ## Alô Mundo! (exerc 01)
