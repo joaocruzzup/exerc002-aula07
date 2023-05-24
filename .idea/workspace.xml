@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b62aae1e-f755-4458-b0c0-6deb798dd373" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex01/AloMundo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex02/CalculadoraMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex03/ConversorUnidades.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2QF1V2K8BeT4he7Z9pwAa10ANHw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -40,7 +40,7 @@
     "onboarding.tips.debug.path": "C:/Users/joao.cruz/Documents/ws-intellij/exerc002-aula07/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CalculadoraMedia">
+  <component name="RunManager" selected="Application.ConversorUnidades">
     <configuration name="AloMundo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex01.AloMundo" />
       <module name="exerc002-aula07" />
@@ -67,8 +67,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ConversorUnidades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex03.ConversorUnidades" />
+      <module name="exerc002-aula07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConversorUnidades" />
         <item itemvalue="Application.CalculadoraMedia" />
         <item itemvalue="Application.AloMundo" />
       </list>
